@@ -3,7 +3,7 @@
 A personal playground for building and understanding generative models — from VAEs to Diffusion, Transformers, and beyond.  
 Curious, simple, and open to everyone.
 
-## 🚀 What's Inside
+## What's Inside
 
 | Model Type          | Project                                        | Status      |
 |---------------------|------------------------------------------------|-------------|
