@@ -19,7 +19,7 @@ Curious, simple, and open to everyone.
 - ✍️ Turn journal notes into runnable, reproducible code  
 - 🌍 Make learning approachable for others exploring the same path
 
-## 📚 Requirements
+## Requirements
 
 Set up with:
 
